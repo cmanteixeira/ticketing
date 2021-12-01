@@ -1,0 +1,10 @@
+{
+    "c": ["webpack"],
+    "r": ["pages/foo/banana"],
+    "m": [
+        "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Ffoo%2Fbanana&absolutePagePath=%2Fhome%2Fcmanteixeira%2Fdev%2Fmicroservices-with-node-js-and-react%2Fticketing%2Fclient%2Fpages%2Ffoo%2Fbanana.js!",
+        "./node_modules/react/cjs/react-jsx-dev-runtime.development.js",
+        "./node_modules/react/jsx-dev-runtime.js",
+        "./pages/foo/banana.js"
+    ]
+}
